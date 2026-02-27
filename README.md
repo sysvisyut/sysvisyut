@@ -34,12 +34,6 @@ I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging t
 
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sysvisyut&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="sysvisyut trophies" />
-  </a>
-</p>
 
 # 💻 Tech Stack
 <p align="left">
@@ -80,4 +74,5 @@ I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging t
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sysvisyut&theme=radical&hide_border=false" alt="GitHub Streak" />
+  
 </div>
