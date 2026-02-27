@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Sharvaj%20Vidyut&fontSize=80&animation=fadeIn&fontAlignY=50" alt="Sharvaj Vidyut" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Sharvaj%20Vidyut&fontSize=80&animation=fadeIn&fontAlignY=50&fontColor=36BCF7" alt="Sharvaj Vidyut" />
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast" alt="Typing SVG" />
@@ -34,6 +34,12 @@ I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging t
 
 ---
 
+# 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sysvisyut&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="sysvisyut trophies" />
+  </a>
+</p>
 
 # 💻 Tech Stack
 <p align="left">
@@ -68,10 +74,10 @@ I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging t
 ---
 
 # 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sysvisyut&theme=radical&hide_border=false" alt="GitHub Streak" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sysvisyut&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
