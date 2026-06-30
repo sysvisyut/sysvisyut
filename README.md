@@ -10,7 +10,7 @@
 
 I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging the gap between robust engineering and intelligent automation. When I'm not building scalable web applications, you'll find me grinding on competitive programming platforms or exploring the frontiers of AI.
 
-* 🔭 **I’m currently working on:** Developing **Agentic AI** systems that move beyond simple prompts to autonomous reasoning, alongside building an AI-powered credit scoring platform and a hyperlocal farm delivery app.
+* 🔭 **I’m currently working on:** Developing **Agentic AI** systems that move beyond simple prompts to autonomous reasoning, alongside building an AI-powered study app.
 * 🎓 **Academics & Community:** Mentee at the Amazon ML Summer School 2025. Active member of the IEEE Computer Society, AI Club, and CodeChef student chapter at VIT Chennai.
 * 💻 **Competitive Programming:** Solving complex algorithmic challenges and optimizing C++ code for maximum efficiency (Check out my repositories for my latest solutions!).
 * 🤖 **AI Interests:** Deeply invested in LLMs, RAG architectures, and the transition toward multi-agent workflows.
