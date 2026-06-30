@@ -14,7 +14,7 @@ I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging t
 * 🎓 **Academics & Community:** Mentee at the Amazon ML Summer School 2025. Active member of the IEEE Computer Society, AI Club, and CodeChef student chapter at VIT Chennai.
 * 💻 **Competitive Programming:** Solving complex algorithmic challenges and optimizing C++ code for maximum efficiency (Check out my repositories for my latest solutions!).
 * 🤖 **AI Interests:** Deeply invested in LLMs, RAG architectures, and the transition toward multi-agent workflows.
-* ⚡ **Fun Fact:** I believe the best way to predict the future is to build an agent that can code it for you.
+* ⚡ **Consistency is a way of life, keep learning cheers!** 
 
 ## 🌐 Connect with Me
 <p align="left">
