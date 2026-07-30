@@ -6,46 +6,75 @@
   </a>
 </div>
 
-# 🚀 About Me
+<br/>
 
-I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging the gap between robust engineering and intelligent automation. When I'm not building scalable web applications, you'll find me grinding on competitive programming platforms or exploring the frontiers of AI.
+## 👋 About Me
 
-* 🔭 **I’m currently working on:** Developing **Agentic AI** systems that move beyond simple prompts to autonomous reasoning, alongside building an AI-powered study app.
-* 🎓 **Academics & Community:** Mentee at the Amazon ML Summer School 2025. Active member of the IEEE Computer Society, AI Club, and CodeChef student chapter at VIT Chennai.
-* 💻 **Competitive Programming:** Solving complex algorithmic challenges and optimizing C++ code for maximum efficiency (Check out my repositories for my latest solutions!).
-* 🤖 **AI Interests:** Deeply invested in LLMs, RAG architectures, and the transition toward multi-agent workflows.
-* ⚡ **Consistency is a way of life, keep learning cheers!** 
+I build software that sits at the intersection of solid engineering and intelligent systems — scalable full-stack applications on one side, agentic AI and RAG pipelines on the other. My work spans production backend systems, LLM-powered products, and the kind of algorithmic problem-solving that comes from years on competitive programming platforms.
 
-## 🌐 Connect with Me
+I care about writing code that's correct, efficient, and easy to reason about — whether that's designing a REST API, optimizing a query, or debugging a distributed system at 2 AM.
+
+- 🔭 **Currently building:** Agentic AI systems that move beyond single-shot prompting into autonomous, multi-step reasoning — alongside an AI-powered study platform.
+- 🌱 **Currently exploring:** Multi-agent workflows, retrieval-augmented generation, and applied system design.
+- 🎓 **Recognition:** Mentee, Amazon ML Summer School 2025 (top 5% of 60,000+ applicants). Active member of IEEE Computer Society, AI Club, and the CodeChef student chapter at VIT Chennai.
+- 🧩 **Problem-solving:** Regularly solving algorithmic challenges and optimizing C++ solutions for efficiency — you'll find my latest work in my pinned repos.
+- ⚡ **Philosophy:** Consistency compounds. Keep building, keep learning.
+
+<br/>
+
+## 🌐 Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sharvaj-vidyut-72736828b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://leetcode.com/u/vidyutcodes/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://codeforces.com/profile/sharvaj" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="mailto:sharvajvidyut@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
+<br/>
 
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack
+**Programming Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**Frontend**
+
+<p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br/>
+</p>
+
+**Backend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/rubyonrails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+</p>
+
+**AI / ML & Data Science**
+
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
@@ -54,25 +83,54 @@ I am a Full Stack Developer and Machine Learning Enthusiast who loves bridging t
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <br/>
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Amazon DynamoDB" />
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Apache Cassandra" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Weaviate-%2300CFA1.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Weaviate Vector DB" />
+</p>
+
+**Cloud & DevOps**
+
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Amazon DynamoDB" />
-  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="ApacheCassandra" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
----
+**Tools & Platforms**
 
-# 📊 GitHub Stats
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysvisyut&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sysvisyut&theme=radical&hide_border=false" alt="GitHub Streak" />
-  
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Built with curiosity, debugged with patience.</sub>
 </div>
